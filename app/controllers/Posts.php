@@ -3,4 +3,4 @@
     public function __construct(){
       echo 'Posts loaded';
     }
-  }
+  } 
